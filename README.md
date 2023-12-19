@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github code](https://your-solution-url.com)
-- Live Site URL: [netlify website](https://your-live-site-url.com)
+- Solution URL: [github code](https://github.com/adityas-github/single-price-grid-component-master.git)
+- Live Site URL: [netlify website](https://price-grid.netlify.app/)
 
 ## My process
 
